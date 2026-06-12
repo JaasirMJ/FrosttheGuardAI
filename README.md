@@ -260,4 +260,4 @@ PlanPriceForStarter₹999/monthSmall clinics, NGOsEnterprise₹10,000+/monthHosp
 
 License
 
-MIT © 2026 FrostGuard AI
+Hack Of Us © 2026 FrostGuard AI
