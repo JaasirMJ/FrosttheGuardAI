@@ -1,4 +1,4 @@
-MDCopyFrostGuard AI 🧊
+FrostGuard AI 🧊
 
 
 AI-powered cold chain intelligence for the last mile.
